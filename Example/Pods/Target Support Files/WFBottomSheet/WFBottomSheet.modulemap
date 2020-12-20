@@ -1,0 +1,6 @@
+framework module WFBottomSheet {
+  umbrella header "WFBottomSheet-umbrella.h"
+
+  export *
+  module * { export * }
+}

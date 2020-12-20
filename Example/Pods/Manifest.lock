@@ -1,0 +1,16 @@
+PODS:
+  - WFBottomSheet (1.0.1)
+
+DEPENDENCIES:
+  - WFBottomSheet (from `../`)
+
+EXTERNAL SOURCES:
+  WFBottomSheet:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WFBottomSheet: de9be14d157e6d14fb31d992451da7130580447a
+
+PODFILE CHECKSUM: 972574c3afb724887579c85caef681906c5cf261
+
+COCOAPODS: 1.9.1
