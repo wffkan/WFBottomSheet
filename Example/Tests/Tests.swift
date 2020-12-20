@@ -1,5 +1,4 @@
 import XCTest
-import WFBottomSheet
 
 class Tests: XCTestCase {
     
